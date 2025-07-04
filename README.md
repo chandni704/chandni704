@@ -12,6 +12,7 @@ I’m a passionate Computer Science student at KLE Technological University with
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ---
@@ -79,11 +80,6 @@ Researched challenges in detecting dim and small infrared targets in military su
 
 ---
 
-## 🏅 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=chandni704&theme=darkhub&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 ## 🔥 GitHub Streak
 
