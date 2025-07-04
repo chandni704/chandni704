@@ -56,19 +56,41 @@ Designed a microcontroller-based stair-lift system using ATmega32, IR sensors, L
 ## 🧠 Publications
 
 ### Challenges in Infrared Small-Target Detection (ICSC 2025)
-Worked as a **researcher** on military surveillance scenarios, addressing challenges in detecting dim/small infrared targets.
+Researched challenges in detecting dim and small infrared targets in military surveillance scenarios.
 
 ---
 
-## 📜 Certifications
+## 📈 GitHub Stats
 
-![Udemy](https://img.shields.io/badge/Python_for_Data_Science-UDEMY-EC5252?style=for-the-badge&logo=udemy&logoColor=white)  
-![NPTEL](https://img.shields.io/badge/Intro_to_Machine_Learning-NPTEL-ffa726?style=for-the-badge&logo=googleclassroom&logoColor=white)  
-![Infosys](https://img.shields.io/badge/DevOps_Foundation-INFOSYS_SPRINGBOARD-004C99?style=for-the-badge&logo=infosys&logoColor=white)  
-![Infosys](https://img.shields.io/badge/Principles_of_Generative_AI-INFOSYS_SPRINGBOARD-004C99?style=for-the-badge&logo=openai&logoColor=white)  
-![Juniper Networks](https://img.shields.io/badge/Open_Learning_(JNCIA_Junos)-JUNIPER_NETWORKS-00A9E0?style=for-the-badge&logo=junipernetworks&logoColor=white)
+![Chandni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chandni704&show_icons=true&theme=radical)
 
 ---
+
+## 🏅 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=chandni704&theme=darkhub&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=chandni704&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+
+
+---
+
+## 📊 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandni704&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 📆 GitHub Contributions Calendar
+
+![GitHub Calendar](https://github.com/ashutosh00710/github-readme-activity-graph/blob/output/github-contribution-grid-snake.svg)
+
+
+--- 
 
 ## 📫 Let's Connect
 
