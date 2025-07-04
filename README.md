@@ -87,7 +87,8 @@ Researched challenges in detecting dim and small infrared targets in military su
 
 ## 📆 GitHub Contributions Calendar
 
-![GitHub Calendar](https://github.com/ashutosh00710/github-readme-activity-graph/blob/output/github-contribution-grid-snake.svg)
+![GitHub Activity Graph](https://github-contributions-chart.vercel.app/api?username=chandni704&color=ff1493&bg=0d1117&line=ffffff&point=00bfff&area=true&hide_border=true)
+
 
 
 --- 
