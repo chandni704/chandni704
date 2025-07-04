@@ -62,14 +62,13 @@ Worked as a **researcher** on military surveillance scenarios, addressing challe
 
 ## 📜 Certifications
 
-- Python for Data Science – UDEMY  
-- Introduction to Machine Learning – NPTEL  
-- DevOps Foundation – INFOSYS SPRINGBOARD  
-- Principles of Generative AI – INFOSYS SPRINGBOARD  
-- Open Learning (JNCIA-Junos) – JUNIPER NETWORKS  
+![Udemy](https://img.shields.io/badge/Python_for_Data_Science-UDEMY-EC5252?style=for-the-badge&logo=udemy&logoColor=white)  
+![NPTEL](https://img.shields.io/badge/Intro_to_Machine_Learning-NPTEL-ffa726?style=for-the-badge&logo=googleclassroom&logoColor=white)  
+![Infosys](https://img.shields.io/badge/DevOps_Foundation-INFOSYS_SPRINGBOARD-004C99?style=for-the-badge&logo=infosys&logoColor=white)  
+![Infosys](https://img.shields.io/badge/Principles_of_Generative_AI-INFOSYS_SPRINGBOARD-004C99?style=for-the-badge&logo=openai&logoColor=white)  
+![Juniper Networks](https://img.shields.io/badge/Open_Learning_(JNCIA_Junos)-JUNIPER_NETWORKS-00A9E0?style=for-the-badge&logo=junipernetworks&logoColor=white)
 
 ---
-
 
 ## 📫 Let's Connect
 
