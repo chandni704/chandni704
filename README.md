@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Welcome! I’m Chandni Kumari</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I am Chandni Kumari</h1>
 <p align="center">🚀 Aspiring Software Engineer | Web Dev & GenAI Enthusiast</p>
 
 I’m a passionate Computer Science student at KLE Technological University with a strong foundation in programming, web development, and real-world problem-solving. I love building intelligent, user-centric applications that address real-life challenges using technology. Whether it's optimizing event booking systems or detecting patterns in behavioral data, I enjoy blending creativity with technical knowledge.
