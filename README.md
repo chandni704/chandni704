@@ -5,8 +5,6 @@ I’m a passionate Computer Science student at KLE Technological University with
 
 ---
 
-![👀 Profile Views](https://komarev.com/ghpvc/?username=chandni704&label=Visitors&color=0e75b6&style=flat-square)
-
 
 ## 🛠️ Tech Stack & Skills
 
