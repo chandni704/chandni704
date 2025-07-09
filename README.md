@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I am Chandni Kumari</h1>
-<p align="center">🚀 Aspiring Software Engineer | Web Dev & GenAI Enthusiast</p>
+<p align="center">🚀 **Aspiring Innovator**  | 💡 **Tech Enthusiast** | 🌐 **Web Developer** | 🤖 **Machine Learning Explorer** </p>
 
 I’m a passionate Computer Science student at KLE Technological University with a strong foundation in programming, web development, and real-world problem-solving. I love building intelligent, user-centric applications that address real-life challenges using technology. Whether it's optimizing event booking systems or detecting patterns in behavioral data, I enjoy blending creativity with technical knowledge.
 
@@ -49,29 +49,6 @@ I’m a passionate Computer Science student at KLE Technological University with
   <img src="https://img.shields.io/badge/DBMS-F29111?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Generative_AI-1B1F23?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
-
----
-
-## 💼 Academic Projects
-
-### 🔹 Event Management System (DSA-based)
-A smart web app to search and book event venues using Dijkstra’s algorithm for optimized location-based search, real-time chatbot (GenAI), and Razorpay for secure payments.
-
-### 🔹 YOLO Benchmarking for Infrared Targets
-Used YOLO models to detect UAVs in IR surveillance footage. Fine-tuned models and reduced false detections using data augmentation and resampling.
-
-### 🔹 Student Anxiety Analysis
-Analyzed behavioral data using Python to classify anxiety levels using statistical visualizations and predictive modeling.
-
-### 🔹 Stair Glider System using ATmega32 Microcontroller
-Designed a microcontroller-based stair-lift system using ATmega32, IR sensors, LCD, and controlled DC motor for aiding elderly and physically challenged individuals.
-
----
-
-## 🧠 Publications
-
-### Challenges in Infrared Small-Target Detection (ICSC 2025)
-Researched challenges in detecting dim and small infrared targets in military surveillance scenarios.
 
 ---
 
